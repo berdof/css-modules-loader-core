@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/css-modules/css-modules-loader-core.git"
+    "url": "https://github.com/berdof/css-modules-loader-core.git"
   },
   "keywords": [
     "css-modules",
